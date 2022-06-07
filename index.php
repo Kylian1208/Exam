@@ -10,6 +10,7 @@
     <title>Exam 2.0</title>
 </head>
 <body>
+	<?php include 'include/navbar.php'?>
 <div id="portfolio" class="section">
 		<div class="container">
 			<div class="row">
