@@ -1,0 +1,43 @@
+body
+{
+    background: linear-gradient(to right,#002496 33%, #FFFFFF 33% 66%, #ED2839 66%);
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+}
+
+#portfolio,
+#portfolio .fp-slide,
+#portfolio .fp-tableCell,
+
+h1,h2,h3,h4,h5
+    {
+        color:  black;
+        font-weight: bold;
+    }
+#portfolio
+    {
+        padding-top: 100px;
+        padding-bottom: 180px;
+    }
+#portfolio
+    {
+        text-align: center;
+    }
+#portfolio h2
+    {
+        padding-bottom: 30px;
+    }
+#portfolio .portfolio-thumb
+    {
+        margin-bottom: 30px;
+    }
+#portfolio a{
+    text-decoration: none;
+    color: brown;
+}
+#portfolio .portfolio-overlay
+{
+    background: linear-gradient(to right,#002496 33%, #FFFFFF 33% 66%, #ED2839 66%);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
