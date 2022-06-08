@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="css/nav.css">
 <div class="navbar">
         <div class="navbar-brand">
-            <img src="images/manu.jpeg" alt="">
+            <img src="images/simplondef.png" alt="">
         </div>
         <div id="link-group" class="link-group">
             <ul>

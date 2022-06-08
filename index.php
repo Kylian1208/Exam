@@ -15,7 +15,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h2 class="wow bounce">VIVE LA FRANCE</h2>
+					<h2 class="wow bounce"></h2>
 				</div>
 				<div class="col-md-4 col-xs-6 wow fadeIn" data-wow-delay="0.6s">
 					<div class="portfolio-thumb">
@@ -50,13 +50,6 @@
 			</div>
 		</div>
 	</div>
-	<!-- jQuery -->
-		<!-- smoothScroll -->
-		<script src="js/smoothscroll.js"></script>
-		<!-- wow -->
-		<script src="js/wow.min.js"></script>
-		<!-- text rotater -->
-		<script src="js/jquery.simple-text-rotator.js"></script>
 </body>
-</html>*
+</html>
 

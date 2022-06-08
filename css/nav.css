@@ -1,7 +1,6 @@
 .navbar {
-    background: linear-gradient(to right,#002496 33%, #FFFFFF 33% 66%, #ED2839 66%);
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
+    background: url(https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/12/Gradient_builder_2.jpg?auto=format&q=60&w=1815&h=1815&fit=crop&crop=faces);
+    background-size: cover;
     display: flex;
     width: 100%;
     height: 130px;
@@ -47,16 +46,16 @@
     width: 80px;
     height: 80%;
     float: left;
-    padding: 10px;
     font-size: 20px;
     font-weight: 600;
     cursor: pointer;
     margin: 0px 10px;
+    margin-left: 50px;
 }
 
 .navbar a {
     text-decoration: none;
-    color: #FFFFFF;
+    color: black;
 }
 
 .navbar span {
